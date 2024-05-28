@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ArYAN",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "express": "^4.19.2",
+    "g4f": "^1.4.3",
+    "gpti": "^2.1.3",
+    "hercai": "^12.2.0",
+    "nayan-server": "^2.3.4",
+    "pinterest-dl": "^1.0.1",
+    "screenshot": "^0.1.0"
+  }
+}
