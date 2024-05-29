@@ -16,7 +16,7 @@ app.get('/gpt', (req, res) => {
 
     gpt.v2({
         messages: messages,
-        markdown: false,
+        markdown: true,
         stream: false
     }, (err, data) => {
         if (err) {
